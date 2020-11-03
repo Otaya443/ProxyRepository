@@ -1,0 +1,12 @@
+co\unicauca\patronproxy\app\client\Main.class
+co\unicauca\patronproxy\domain\order\Dish.class
+co\unicauca\patronproxy\domain\order\State.class
+co\unicauca\patronproxy\domain\order\Item.class
+co\unicauca\patronproxy\domain\order\Order.class
+co\unicauca\patronproxy\domain\order\Customer.class
+co\unicauca\patronproxy\domain\order\OrderFacade.class
+co\unicauca\patronproxy\access\IOrderRepository.class
+co\unicauca\patronproxy\domain\order\IOrderService.class
+co\unicauca\patronproxy\domain\order\ProxyClient.class
+co\unicauca\patronproxy\access\Factory.class
+co\unicauca\patronproxy\domain\order\OrderServiceLogger.class
